@@ -1,6 +1,6 @@
 # Testes com git
 
-![./tiefighter.png](TIE Fighter)
+![tiefighter.png](TIE Fighter)
 
 ```$ git help```
 ```$ git help <comando>```
