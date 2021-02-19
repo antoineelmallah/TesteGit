@@ -1,6 +1,7 @@
 # Testes com git
 
 ![tiefighter.png](TIE Fighter)
+![Image](./tiefighter.png?raw=true)
 
 - ```$ git help```
 - ```$ git help <comando>```
