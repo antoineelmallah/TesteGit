@@ -2,6 +2,8 @@
 
 ![Image](./tiefighter.png?raw=true)
 
+## Comandos mais usados:
+
 - ```$ git help```
 - ```$ git help <comando>```
 - ```$ git init```
@@ -17,4 +19,11 @@
 - ```$ git push -u origin master``` (primeira vez)
 - ```$ git push``` (demais vezes)
 - ```$ git push <remote> <branch>``` (todas as vezes, caso o comando "git push -u origin master" não tenha sido executado)
+
+## Estados dos arquivos 
+
+- Untracked: não monitorado
+- Modified: modificado
+- staged: preparado
+- commited: consolidado
 
