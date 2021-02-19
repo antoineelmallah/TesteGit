@@ -1,7 +1,5 @@
 # Testes com git
 
-![Image](./tiefighter.png?raw=true)
-
 ## Comandos mais usados:
 
 - ```$ git help```
