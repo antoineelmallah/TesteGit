@@ -27,3 +27,4 @@
 - staged: preparado
 - commited: consolidado
 
+![Image](./git_estado_arquivos.PNG?raw=true)
