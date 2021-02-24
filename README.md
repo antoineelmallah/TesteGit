@@ -17,6 +17,7 @@
 - ```$ git push -u origin master``` (primeira vez)
 - ```$ git push``` (demais vezes)
 - ```$ git push <remote> <branch>``` (todas as vezes, caso o comando "git push -u origin master" não tenha sido executado)
+- ```$ git diff ``` (diferenças entre a)
 
 ## Estados dos arquivos 
 
