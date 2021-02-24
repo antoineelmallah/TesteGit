@@ -18,6 +18,8 @@
 - ```$ git push``` (demais vezes)
 - ```$ git push <remote> <branch>``` (todas as vezes, caso o comando "git push -u origin master" não tenha sido executado)
 - ```$ git diff ``` (diferenças entre a)
+- ```$ git checkout <commit>``` (voltar o repositório local para o commit selecionado)
+- ```$ git checkout <commit> <file>``` (voltar o arquivo para o commit selecionado)
 
 ## Estados dos arquivos 
 
