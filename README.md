@@ -20,6 +20,9 @@
 - ```$ git diff ``` (diferenças entre a)
 - ```$ git checkout <commit>``` (voltar o repositório local para o commit selecionado)
 - ```$ git checkout <commit> <file>``` (voltar o arquivo para o commit selecionado)
+- ```$ git checkout -- <path_or_file>``` (desfaz todas as alterações que não estejam no stage desde o último commit)
+- ```$ git checkout HEAD -- <path_file>``` (desfaz todas as alterações, incluindo o stage, desde o último commit)
+
 
 ## Estados dos arquivos 
 
