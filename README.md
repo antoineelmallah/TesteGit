@@ -17,7 +17,10 @@
 - ```$ git push -u origin master``` (primeira vez)
 - ```$ git push``` (demais vezes)
 - ```$ git push <remote> <branch>``` (todas as vezes, caso o comando "git push -u origin master" não tenha sido executado)
-- ```$ git diff ``` (diferenças entre a)
+- ```$ git diff ``` (lista as diferenças de todos os arquivos alterados localmente)
+- ```$ git diff <path> ``` (lista as diferenças do arquivo especificado pelo path)
+- ```$ git diff HEAD~1 ``` ('HEAD' é um ponteiro para o último commit da branch corrente. 'HEAD~N' faz referência ao Nésimo commit antes do HEAD. 'HEAD~1', portanto, é o penúltimo commit do branch corrente.)
+- ```$ git clone <URL> ``` (Baixa uma cópia do repositório remoto.)
 
 ## Estados dos arquivos 
 
