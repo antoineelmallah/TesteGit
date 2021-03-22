@@ -26,6 +26,11 @@
 - ```$ git checkout -- <file>``` (desfaz todas as alterações que não estejam no stage desde o último commit)
 - ```$ git checkout HEAD -- <file>``` (desfaz todas as alterações, incluindo o stage, desde o último commit)
 - ```$ git revert <commit>``` (cria um novo commit desfazendo as alterações do commit especificado. Util para desfazer commits antigos)
+- ```$ git branch``` (visualizar as branches do repositório)
+- ```$ git branch <nome da branch>``` (cria uma nova branch com o nome especificado a partir da branch atual)
+- ```$ git branch -d <nome da branch>``` (exclui uma branch)
+- ```$ git checkout <nome da branch>``` (muda para a branch especificada)
+
 
 ## Estados dos arquivos 
 
